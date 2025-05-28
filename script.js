@@ -22,7 +22,7 @@ button.addEventListener('click', () => {
     img.alt = 'Poop meme gif';
     img.style.maxWidth = '150px';
     img.style.borderRadius = '12px';
-    img.style.margin = '0 7px';
+    img.style.margin = '0 1px';
     gifContainer.appendChild(img);
   });
 
